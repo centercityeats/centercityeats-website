@@ -1,0 +1,675 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Au Bon Pain (Various)",
+          "phoneFormatted": "(215) 564-9705",
+          "phone": "215649705",
+          "address": "2005 Market Street",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Good for soup. Relatively inexpensive and relatively low on calories. Pretty delicious'",
+          "restaurantHours": "M-FR 6:00AM-5:00PM, SA/SU (CL)",
+          "restaurantWebsite": "http://aubonpain.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1733830612245,
+            39.9536787959184
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Banana Leaf",
+          "phoneFormatted": "(215) 592-8288",
+          "phone": "2155928288",
+          "address": "1009 Arch Street",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "'Cheaper version of Penang. Crowded weekend nights. Large groups welcome (if room).' Our menu is a combination of the best of Malaysian, Indian, Indonesian, and Thai flavors. (Website)",
+          "restaurantHours": "11:00AM-1:00AM (open late!)",
+          "restaurantWebsite": "http://www.bananaleafphilly.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1567262,
+            39.9537489
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Cafe Olé",
+          "phoneFormatted": "(215) 627-2140",
+          "phone": "2156272140",
+          "address": "147 N 3rd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'Sandwiches, salads, and breakfast.' Cozy coffee shop serving snacks & Mediterranean fare within its brightly colored walls. (Google)",
+          "restaurantHours": "M-SA 7:30AM-7:00PM, SU 8:30AM-7:00PM",
+          "restaurantWebsite": "(Menu photo) https://www.facebook.com/PhillyCafeOle/photos/a.374580939221500.97323.121040674575529/1112210745458512/?type=3&theater"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1448286,
+            39.9535265
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Crazy Sushi",
+          "phoneFormatted": "(215) 988-0398",
+          "phone": "2159880398",
+          "address": "1837 Chestnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Good lunch specials (2/3 rolls). Nice setting for a longer, sit-down lunch.'",
+          "restaurantHours": "M-FR 11:45AM-9:45PM SA 1:15PM-10:15PM SU 1:15PM-9:45PM",
+          "restaurantWebsite": "http://crazysushiphilly.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1709396938775,
+            39.9518176734694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geolocationComments": "manual override since geocoded to Point Breeze",
+          "restaurantName": "Dan Dan",
+          "phoneFormatted": "(215) 800-1165",
+          "phone": "2158001165",
+          "address": "126 S 16th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19102-2820",
+          "state": "PA",
+          "restaurantDescription": "Modern bi-level eatery serving dan dan noodles, veggie dishes & spicy Sichuan/Taiwanese specialties. (Google)",
+          "restaurantHours": "M-TH 11:00AM-10:00PM, FR-SA 11:00AM-10:30PM, SU 11:30AM-10:00PM",
+          "restaurantWebsite": "http://dandanrestaurant.com/ (under construction)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.167598,
+            39.950247
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Duane Morris",
+          "phoneFormatted": "",
+          "phone": "",
+          "address": "30 S 17th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "",
+          "state": "PA",
+          "restaurantDescription": "'This is technically the law firm's cafeteria. However, they seem to allow outsiders to come in. Please be respectful. Managed by Stephen Starr's catering division. There are good soups and usually two entrees of the day. This is a nice, calm place to have catch-up lunches with a friend. To enter, go in the lobby and make the 3rd left.",
+          "restaurantHours": "11AM-2PM/3PM (need to verify)",
+          "restaurantWebsite": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.16952805,
+            39.95222305
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Gianfranco Pizza Rustica",
+          "phoneFormatted": "(215) 592-0048",
+          "phone": "2155920048",
+          "address": "6 N 3rd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'No-nonsense pizza shop. Good for quick slice for lunch.'",
+          "restaurantHours": "M-TH 10:00AM-9:30PM F 10:00AM-10:30PM SA-SU 12:00PM-9:30PM",
+          "restaurantWebsite": "http://gianfrancopizzarustica.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1457295,
+            39.9504663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Han Dynasty",
+          "phoneFormatted": "(215) 922-1888",
+          "phone": "2159221888",
+          "address": "123 Chestnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'Good place to take out-of-town visitors. Beautiful interior of a former bank. Some of my foodie friends who know have been following the chef behind this restaurant from restaurant for almost decades. Very spicy food, remember if it hurts going in, it will hurt going out.' Spicy Sichuan dishes like dan dan noodles are heat-rated by number at this casual local chain. (Google)",
+          "restaurantHours": "M,TU,TH,SU 11:30AM-10:00PM W 11:30AM-12:00AM FR-SA 11:30AM-10:30PM",
+          "restaurantWebsite": "http://www.handynasty.net/ http://handynasty.net/oldcity/menu/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1438899,
+            39.9487307
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "High Street on Market",
+          "phoneFormatted": "(215) 625-0988",
+          "phone": "2156250988",
+          "address": "308 Market St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'Good eats, awesome breads' Note: Chef Eli Kulp was paralyzed in the Amtrak derailment in May 2015 and he has a long road to recovery.",
+          "restaurantHours": "Breakfast: M-TH 7:00AM-11:30AM, SA-SU 8:00AM-3:30PM / Lunch: 11:30AM-3:30PM / Dinner: T-SU 5:30PM-10:00PM (10:30PM wknds)",
+          "restaurantWebsite": "http://highstreetonmarket.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1459209473684,
+            39.9501217894737
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "HipCityVeg",
+          "phoneFormatted": "(215) 278-7605",
+          "phone": "2152787605",
+          "address": "127 S 18th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Always a line at lunchtime. Smoothies and other healthy food.'",
+          "restaurantHours": "SU-SA 10:00AM-10:00PM",
+          "restaurantWebsite": "http://hipcityveg.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1703499973227,
+            39.95075935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Mama's Vegetarian",
+          "phoneFormatted": "(215) 751-0477",
+          "phone": "2157510477",
+          "address": "18 S 20TH St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "Cash only. We are a Kosher (vaad of philadelphia) Middle Eastern restaurant located on 20th street in Philadelphia. We make the best falafel and we bake our pitas daily. We also cater. Take a look at our reviews and come by :) (Website)",
+          "restaurantHours": "M-TH 11:00AM-9:00PM, FR 11:00AM-3:00PM, SAT (CL), SU 12:00PM-7:00PM",
+          "restaurantWebsite": "http://www.mamasvegetarian.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1734897,
+            39.9527069
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Matt & Marie's (Logan Square)",
+          "phoneFormatted": "(267) 273-1940",
+          "phone": "2672731940",
+          "address": "100 N 18th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Tasty lunch sandwiches' A new, modern Italian food experience. (Website)",
+          "restaurantHours": "M-FR 7:00AM-7:30PM",
+          "restaurantWebsite": "http://www.mattandmaries.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1693525,
+            39.9561887
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Matt & Marie's (Rittenhouse)",
+          "phoneFormatted": "(215) 563-2000",
+          "phone": "2155632000",
+          "address": "118 S. 18th Street",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Tasty lunch sandwiches' A new, modern Italian food experience. (Website)",
+          "restaurantHours": "M-FR 8:00AM-8:00PM",
+          "restaurantWebsite": "http://www.mattandmaries.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.17071635,
+            39.9511358
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Medcart (NW corner)",
+          "phoneFormatted": "",
+          "phone": "",
+          "address": "401 Market St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "By the bus stop. Mediterranean food, very rave reviews. No website, hours are mostly around lunchtime.",
+          "restaurantHours": "",
+          "restaurantWebsite": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.147401,
+            39.950469
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Mrs. K's Coffee Shop & Cafe",
+          "phoneFormatted": "(215) 627-7991",
+          "phone": "2156277991",
+          "address": "325 Chestnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'Serviceable (early if needed) breakfast place. Newly open late for weekend crowd.'",
+          "restaurantHours": "M-FR 6:30AM-3:30PM FR-SA 6:00PM-3:00AM SU 7:00AM-2:30PM",
+          "restaurantWebsite": "http://mrskscoffeeshop.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1463844347826,
+            39.9487647391304
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Mumbai Bistro",
+          "phoneFormatted": "(215) 418-0444",
+          "phone": "2154180444",
+          "address": "930 Locust St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "'Decent Indian food, buffet style. Very limited seating, mainly a to-go place.' Fast, Fresh, Home-style Indian food (Website)",
+          "restaurantHours": "M (CL) TU-SU 11:30AM-9:00PM",
+          "restaurantWebsite": "http://www.mumbaibistro.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1553164,
+            39.9470696
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "National Mechanics",
+          "phoneFormatted": "",
+          "phone": "",
+          "address": "22 S 3rd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'N3RD ST mainstay. Good sit-down place for a leisurely lunch. Wifi. On weekend nights, morphs into a super crowded going out/dance place so crowded that you can't actually dance.'",
+          "restaurantHours": "11:00AM-2:00AM (all days, food not all day), SA-SU Brunch: 11:00AM-3:30PM",
+          "restaurantWebsite": "http://www.nationalmechanics.com/ http://nationalmechanics.com/philadelphia-restaurant-menu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1459458,
+            39.9495502
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Non Nom Ramen",
+          "phoneFormatted": "(215) 988-0898",
+          "phone": "2159880898",
+          "address": "20 S 18th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Decent ramen in Center City. At lunch, long line and possibly watered down broth, smaller portions.'",
+          "restaurantHours": "11:00AM-3:30PM (Lunch), 5:00PM-9:30PM (Dinner) FR/SA (to 10:30PM)",
+          "restaurantWebsite": "http://www.nomnomramen.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1704456,
+            39.9511456
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Reading Terminal Market",
+          "phoneFormatted": "",
+          "phone": "",
+          "address": "51 N 12th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "Always busy, literal world of food, great place to take out-of-town visitors. Some favorites include: Dutch Eating place (Amish diner experience, good for solo diners). Beck's Cajun Café (jambalaya and other creole favorites). DiNic's (roast beef sandwiches). Valley Shepherd Creamery (awesome Meltkraft grilled cheese sandwiches).",
+          "restaurantHours": "M-SA 8:00AM-6:00PM, SU 9:00AM-5:00PM (non-Dutch). Pennsylvania Dutch stalls have different hours TU-W 8:00AM-3:00PM TH-SA 8:00AM-5:00PM",
+          "restaurantWebsite": "http://readingterminalmarket.org"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1590103434147,
+            39.95333315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Shake Shack",
+          "phoneFormatted": "(215) 809-1742",
+          "phone": "2158091742",
+          "address": "2000 Sansom St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Dependable burgers, good fries, outdoor seating.' 'Avoid the pizza place next door at all costs.'",
+          "restaurantHours": "11:00AM–11:00PM (all days)",
+          "restaurantWebsite": "https://www.shakeshack.com/location/center-city"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.173792,
+            39.9512405
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Smile Café",
+          "phoneFormatted": "(215) 564-2502",
+          "phone": "2155642502",
+          "address": "105 S 22nd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "Smile Café is the perfect choice for lovers of genuine Thai food in a charming art-filled setting. (Website)",
+          "restaurantHours": "M-FR 11:30AM-2:30PM, M-TH 5:00PM-9:00PM, FR-SA 5:00PM-10:00PM",
+          "restaurantWebsite": "http://www.thai-smilecafe.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1766792,
+            39.9538971
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Snap Kitchen (Old City)",
+          "phoneFormatted": "(215) 845-0004",
+          "phone": "2158450004",
+          "address": "243 Market St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'It's like Ikea for food' Since 2010, we have worked hard to create a place for people to experience consciously crafted food that is both delicious and nutritious. We are dedicated to educating our guests and providing healthy, chef-driven creations prepared with the highest quality ingredients available. (Website)",
+          "restaurantHours": "M-FR 7:00AM-9:00PM, SA 9:00AM-8:00PM SU 9:00AM-9:00PM",
+          "restaurantWebsite": "http://www.snapkitchen.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1450772142857,
+            39.9500274285714
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Snap Kitchen (Rittenhouse)",
+          "phoneFormatted": "(215) 845-0002",
+          "phone": "2158450002",
+          "address": "1901 Chestnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'It's like Ikea for food' Since 2010, we have worked hard to create a place for people to experience consciously crafted food that is both delicious and nutritious. We are dedicated to educating our guests and providing healthy, chef-driven creations prepared with the highest quality ingredients available. (Website)",
+          "restaurantHours": "M-FR 7:00AM-9:00PM, SA 9:00AM-8:00PM SU 9:00AM-9:00PM",
+          "restaurantWebsite": "http://www.snapkitchen.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.172019,
+            39.951952
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Stripp'd Juice",
+          "phoneFormatted": "",
+          "phone": "",
+          "address": "263 N. 3rd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "Juice and Acai Bowls",
+          "restaurantHours": "M (CL), TU-FR 7:30AM-6:30PM, SA-SU 10:00AM-5:00PM",
+          "restaurantWebsite": "http://www.strippdjuice.com/ http://www.strippdjuice.com/insta/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.144234961794,
+            39.9557406
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Sweetgreen (Rittenhouse)",
+          "phoneFormatted": "(215) 665-9710",
+          "phone": "2156659710",
+          "address": "1821 Chestnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'tldr: Salads' 'Has a line for lunch rush, however not as long as HipCityVeg.' Founded in 2007, sweetgreen is a destination for delicious food that’s both healthy for you and aligned with your values. We source local and organic ingredients from farmers we know and partners we trust, supporting our communities and creating meaningful relationships with those around us. We exist to create experiences where passion and purpose come together. (Website)",
+          "restaurantHours": "M-SU 10:30AM-10:00PM",
+          "restaurantWebsite": "http://sweetgreen.com/menu/?region=philadelphia http://sweetgreen.com/?app=true#get-the-app"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1707331632653,
+            39.9517920408163
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Sweetgreen (Washington Sq.)",
+          "phoneFormatted": "(215) 454-6770",
+          "phone": "2154546770",
+          "address": "924 Walnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "'tldr: Salads' Founded in 2007, sweetgreen is a destination for delicious food that’s both healthy for you and aligned with your values. We source local and organic ingredients from farmers we know and partners we trust, supporting our communities and creating meaningful relationships with those around us. We exist to create experiences where passion and purpose come together. (Website)",
+          "restaurantHours": "M-SU 10:30AM-10:00PM",
+          "restaurantWebsite": "http://sweetgreen.com/menu/?region=philadelphia http://sweetgreen.com/?app=true#get-the-app"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1567363333333,
+            39.9483221666667
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Tampopo",
+          "phoneFormatted": "(215) 557-9593",
+          "phone": "2155579593",
+          "address": "104 S 21st St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Good bibimbap, ok udon noodles.' Casual Asian restaurant (website)",
+          "restaurantHours": "11:30AM-2:30PM (Lunch), 5:00PM-9:30PM (Dinner), SA 12:00PM-9:00PM",
+          "restaurantWebsite": "http://www.tampoporestaurant.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1760614,
+            39.9493181
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Thai Singha House To Go",
+          "phoneFormatted": "(215) 568-2390",
+          "phone": "2155682390",
+          "address": "106 S 20th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Cheap, tasty (spicy if desired) Thai food. Perfect for taking to-go to Rittenhouse Sq. park. If they run out and you don't order what they already have displayed, they will cook it from scratch (wait of ~10 min.)'",
+          "restaurantHours": "M-FR 11:00AM-9:30PM",
+          "restaurantWebsite": "http://philadelphia.menupages.com/restaurants/singha-house-to-go/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.173654,
+            39.95179
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Wedge + Fig",
+          "phoneFormatted": "(267) 603-3090",
+          "phone": "2676033090",
+          "address": "160 N 3rd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "'More upscale lunch place, sit down. Cheese specialty. Great brunch weekends only.'",
+          "restaurantHours": "M (CL) TU-TH 11:00AM-8:00PM FR 11:00AM-9:00PM SA 10:30AM-9:00PM SU 10:30AM-3:30PM",
+          "restaurantWebsite": "http://www.wedgeandfig.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1450135185185,
+            39.9537023703704
+          ]
+        }
+      }
+    ]
+  }
+]
