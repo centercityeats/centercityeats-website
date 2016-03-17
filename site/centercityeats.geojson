@@ -51,6 +51,55 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Benna's Cafe",
+          "phoneFormatted": "(215) 334-1502",
+          "phone": "2153341502",
+          "address": "1236 S 8th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19147",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'Avocado, Tomato, Cream Cheese on Bagel. Simple & Vegetarian.' 'Pretty small place'",
+          "restaurantHours": "M-FR 7:00AM-6:00PM SA-SU 8:00AM-6:00PM",
+          "restaurantWebsite": "https://www.facebook.com/Bennas-Cafe-316526051875056/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1575874571429,
+            39.9332406
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Breakfast Sandwich (cart, approx. location)",
+          "phoneFormatted": "",
+          "phone": "",
+          "address": "1801 John F Kennedy Blvd",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'For an authentic breakfast sandwich.'",
+          "restaurantHours": "Breakfast hours (inexact)",
+          "restaurantWebsite": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.169931,
+            39.954295
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Cafe Olé",
           "phoneFormatted": "(215) 627-2140",
           "phone": "2156272140",
@@ -198,7 +247,7 @@
           "country": "United States",
           "postalCode": "19106",
           "state": "PA",
-          "restaurantDescription": "'Good eats, awesome breads' Note: Chef Eli Kulp was paralyzed in the Amtrak derailment in May 2015 and he has a long road to recovery.",
+          "restaurantDescription": "'Good eats, awesome breads' 'The sandwiches are out of control.' 'Nothing beats the Pastrami breakfast sandwich. nothing.' Note: Chef Eli Kulp was paralyzed in the Amtrak derailment in May 2015 and he has a long road to recovery.",
           "restaurantHours": "Breakfast: M-TH 7:00AM-11:30AM, SA-SU 8:00AM-3:30PM / Lunch: 11:30AM-3:30PM / Dinner: T-SU 5:30PM-10:00PM (10:30PM wknds)",
           "restaurantWebsite": "http://highstreetonmarket.com/"
         },
@@ -230,6 +279,104 @@
           "coordinates": [
             -75.1703499973227,
             39.95075935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Honey's Sit 'n Eat (Center City)",
+          "phoneFormatted": "(215) 732-5130",
+          "phone": "2157325130",
+          "address": "2101 South St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19146",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'jeb's open faced sandwich (veggie sausage patties, gravy, fried eggs) is memorable' 'Get the breakfast special: over medium, latke, challah.' 'Great brunch place on weekends, worth the wait.'",
+          "restaurantHours": "M-SA 7:00AM-10:00PM SU 7:00AM-5:00PM",
+          "restaurantWebsite": "http://honeyssitneat.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.163462,
+            39.952624
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Honey's Sit 'n Eat (Northern Liberties)",
+          "phoneFormatted": "(215) 925-1150",
+          "phone": "2159251150",
+          "address": "800 N 4th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19123",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'jeb's open faced sandwich (veggie sausage patties, gravy, fried eggs) is memorable' 'Get the breakfast special: over medium, latke, challah.' 'Great brunch place on weekends, worth the wait.'",
+          "restaurantHours": "M-FR 7:00AM-4:00PM SA-SU 7:00AM-5:00PM",
+          "restaurantWebsite": "http://honeyssitneat.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1444912,
+            39.9638849
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "John's Roast Pork",
+          "phoneFormatted": "(215) 463-1951",
+          "phone": "2154631951",
+          "address": "14 East Snyder Avenue",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19148",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'Order a Pork roll, egg, and cheese, and a cheesesteak for later to go.'",
+          "restaurantHours": "M-FR 7:00AM-7:00PM SA 9:00AM-7:00PM SU (CL)",
+          "restaurantWebsite": "http://www.johnsroastpork.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1458911428571,
+            39.9212284285714
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Knead Bagels",
+          "phoneFormatted": "(267) 519-9920",
+          "phone": "2675199920",
+          "address": "725 Walnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'The breakfast sandwiches are pretty delicious.' 'They also have a relatively new banh mi sandwich for their lunch menu that is my favorite thing right now.' A Non-Traditional Bagel Shop (Website)",
+          "restaurantHours": "M (CL) TU-FR 6:30AM-2:00PM SA-SU 8:00AM-2:00PM",
+          "restaurantWebsite": "http://kneadbagels.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.153406,
+            39.9480740714286
           ]
         }
       },
@@ -420,6 +567,55 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "One Shot Coffee & Cafe",
+          "phoneFormatted": "(215) 627-1620",
+          "phone": "2156271620",
+          "address": "217 W. George Street",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19123",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'Ultimate breakfast sandwich - one of the best sandwiches on the planet' 'UBS great breakfast sandwich with brie, a hash brown, fried egg, and bacon. It's so good. Also, One Shot sandwich' 'Beautiful 2nd floor' The cafe menu features New American dishes that a showcase some decidedly international twists, as well as everyone’s classic brunch favorites. Weekly specials, grab-­and-­go meals and snacks, and an outstanding selection of house-­made pastry and desserts are offered at the counter. (Website)",
+          "restaurantHours": "Cafe: 7:00AM-5:00PM Kitchen: 8:00AM-4:00PM",
+          "restaurantWebsite": "https://1shotcoffee.wordpress.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1406542,
+            39.9676649
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Plenty Cafe",
+          "phoneFormatted": "(215) 560-8684",
+          "phone": "2155608684",
+          "address": "1602 Spruce Street",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'They have really good breakfast sammies.'",
+          "restaurantHours": "M-FR 6:00AM-9:00PM SA 7:00AM-9:00PM SU 7:00AM-8:00PM",
+          "restaurantWebsite": "http://plentyphiladelphia.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1682558,
+            39.9473314
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Reading Terminal Market",
           "phoneFormatted": "",
           "phone": "",
@@ -535,6 +731,30 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Spread Bagelry",
+          "phoneFormatted": "(215) 545-0626",
+          "phone": "2155450626",
+          "address": "262 S 20th Street",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'I like my breakfast simple and my bagels delicious.'",
+          "restaurantHours": "7:00AM-4:00PM (or until sold out)",
+          "restaurantWebsite": "http://www.spreadbagelry.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.174373,
+            39.94845
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Stripp'd Juice",
           "phoneFormatted": "",
           "phone": "",
@@ -604,6 +824,29 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Talula's Daily",
+          "phoneFormatted": "(215) 592-6555",
+          "phone": "2155926555",
+          "address": "208 West Washington Square",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantDescription": "Talula’s Daily aims to be an everyday hub to shop, eat, drink, and congregate over real, wholesome food and ingredients. Market-goers are greeted by the scents of crusty, warm bread; freshly roasted coffee; and local farmstead cheeses of all shapes, sizes and flavors. We offer wine by the glass, bottled and draft beer, and our coffee bar serving atelier La Colombe is the perfect place for a pick-me-up or to linger at one of the café tables. (Website)",
+          "restaurantHours": "7:00AM-7:00PM 5-course supper TU-SU from 6:00PM",
+          "restaurantWebsite": "http://talulasdaily.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1534542,
+            39.947338
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Tampopo",
           "phoneFormatted": "(215) 557-9593",
           "phone": "2155579593",
@@ -644,6 +887,55 @@
           "coordinates": [
             -75.173654,
             39.95179
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "The Bakeshop on Twentieth",
+          "phoneFormatted": "(215) 644-9714",
+          "phone": "2156449714",
+          "address": "269 S 20th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'They will make you a delicious custom egg sandwich (you can add on whatever proteins/cheese/veggies they have) on a Philly Muffin, and their sour cream coffee cake is also the best.' 'open-faced avocado toast sandwich topped with an over easy egg - wonderful' 'Sara Silverman is fanatical about their chocolate babka' We're a small batch bakery that specializes in recreating tastes from your childhood using treasured family recipes. (Website)",
+          "restaurantHours": "M-SA 7:00AM-6:00PM SU 8:00AM-4:00PM",
+          "restaurantWebsite": "http://www.bakeshopon20th.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1741683157895,
+            39.9483949473684
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "The Gold Standard Cafe",
+          "phoneFormatted": "(215) 727-8247",
+          "phone": "2157278247",
+          "address": "4800 Baltimore Avenue",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19143",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'I have had pretty good experiences with the bacon egg and cheese' Daytime breakfast, brunch & burger cafe switches to comfort-food dinner menu in the evening. BYOB. (Google)",
+          "restaurantHours": "M 7:00AM-7:00PM (4PM Kitchen close) TU-W 7:00AM-7:00PM TH-FR 7:00AM-9:00PM SA 8:00AM-9:00PM SU 8:00AM-8:00PM (Weekend brunch 9:30AM-2:00PM)",
+          "restaurantWebsite": "http://www.thegoldstandardcafe.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.2195775,
+            39.9482008
           ]
         }
       },
