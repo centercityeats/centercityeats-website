@@ -44,7 +44,8 @@ class GeoCodeJson
       puts "start - processing feature, #{feature['properties']['restaurantName']}"
       
       if GEOCODE_ENABLED && feature['geometry'].nil?
-        lat, lon = geocode_address(restaurant_name, 
+        allow_outside_center_city_boundaries = !feature['properties']['restaurantNotInCenterCity'].nil? && (feature['properties']['restaurantNotInCenterCity'] == true)
+        lat, lon = geocode_address(allow_outside_center_city_boundaries, restaurant_name, 
           feature['properties']['address'], feature['properties']['city'], feature['properties']['state'], feature['properties']['postalCode'])
         feature['geometry'] = {
           'type' => 'Point',
@@ -57,17 +58,17 @@ class GeoCodeJson
     end
   end
 
-  def geocode_address(restaurant_name, street_address, city, state, zip)
+  def geocode_address(allow_outside_center_city_boundaries, restaurant_name, street_address, city, state, zip)
     address_line = [street_address, city, state, zip].join(' ')
     response = execute_http_call(geocode_request_url(address_line))
-    return find_geocode_coordinates_in_center_city_boundaries(restaurant_name, response)
+    return find_geocode_coordinates_in_center_city_boundaries(restaurant_name, response, allow_outside_center_city_boundaries)
   end
 
-  def find_geocode_coordinates_in_center_city_boundaries(restaurant_name, response)
+  def find_geocode_coordinates_in_center_city_boundaries(restaurant_name, response, allow_outside_center_city_boundaries)
     response.each_with_index do |place, index|
       # return first found in center city
       lat, lon = place['lat'].to_f, place['lon'].to_f
-      return place['lat'].to_f, place['lon'].to_f if check_if_in_center_city_boundaries(restaurant_name, index, lat, lon)
+      return place['lat'].to_f, place['lon'].to_f if allow_outside_center_city_boundaries || check_if_in_center_city_boundaries(restaurant_name, index, lat, lon)
     end
     # default response if no within center city address found
     puts "Place for restaurant_name #{restaurant_name} not found in center city boundaries!!"
