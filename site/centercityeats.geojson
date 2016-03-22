@@ -5,6 +5,56 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Ants Pants Cafe",
+          "phoneFormatted": "(215) 875-8002",
+          "phone": "2158758002",
+          "address": "2212 South St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19146",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'Hidden outdoor seating in back (weather permitting)' You can't really go wrong for breakfast.' 'For lunch I get the mozzarella, pesto tomato with chicken on ciabatta with sweets.' 'I think I got the Hot and Sweet Bacon sandwich. I usually get the Brekkie Platter' Casual stop for American breakfasts, brunches & dinners with an Australian accent. (Website)",
+          "restaurantHours": "M-FR 7:00AM-4:00PM SA-SU 8:00AM-4:00PM (Winter)",
+          "restaurantWebsite": "http://www.antspantscafe.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1790919,
+            39.9452233
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Artisan Boulanger Patissier",
+          "phoneFormatted": "(215) 271-4688",
+          "phone": "2152714688",
+          "address": "1218 Mifflin St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19148",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'The sausage egg and cheese on an in house made croissant from scratch' French-inspired spot offering house-baked breads & pastries, plus light breakfast & lunch fare. (Google)",
+          "restaurantHours": "M (CL) TU-SA 7:00AM-5:00PM SU 8:00AM-4:00PM",
+          "restaurantWebsite": "(Yelp) http://www.yelp.com/biz/artisan-boulanger-patissier-philadelphia-2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.166469,
+            39.926419
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Au Bon Pain (Various)",
           "phoneFormatted": "(215) 564-9705",
           "phone": "215649705",
@@ -100,6 +150,31 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Breezy's Cafe",
+          "phoneFormatted": "(267) 858-4186",
+          "phone": "2678584186",
+          "address": "1200 Point Breeze Ave",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19146",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'You can't go wrong with anything on the menu. Their classic to me is their tempeh bacon egg and cheese on a pretzel roll. That said, give their specials serious thought. I have spent more than an entire paycheck at Breezy's over the past year. It is that good.'",
+          "restaurantHours": "M (CL) TU-SA 7:00AM-5:00PM SU 8:00AM-4:00PM",
+          "restaurantWebsite": "http://www.breezyscafephilly.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1769932,
+            39.9372478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Cafe Olé",
           "phoneFormatted": "(215) 627-2140",
           "phone": "2156272140",
@@ -117,6 +192,30 @@
           "coordinates": [
             -75.1448286,
             39.9535265
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Cafe Square One",
+          "phoneFormatted": "(215) 645-2712",
+          "phone": "2156452712",
+          "address": "50 S 3rd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19106",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'Pretty good menu coming out of a small place' Breakfast burrito - always delicious!!'",
+          "restaurantHours": "M-FR 7:00AM-6:00PM SA 8:00AM-5:00PM SU (CL)",
+          "restaurantWebsite": "http://www.cafesquareone.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1460162,
+            39.9491296
           ]
         }
       },
@@ -293,16 +392,17 @@
           "country": "United States",
           "postalCode": "19146",
           "state": "PA",
+          "restaurantNotInCenterCity": true,
           "restaurantBreakfastSpecialty": true,
-          "restaurantDescription": "'jeb's open faced sandwich (veggie sausage patties, gravy, fried eggs) is memorable' 'Get the breakfast special: over medium, latke, challah.' 'Great brunch place on weekends, worth the wait.'",
+          "restaurantDescription": "'jeb's open faced sandwich (veggie sausage patties, gravy, fried eggs) is memorable' 'Get the breakfast special: over medium, latke, challah.' 'Bacon/egg/cheese/toasted-buttered challah roll from Honey's - No bells. No whistles. Just the best breakfast sandwich.' 'Great brunch place on weekends, worth the wait.'",
           "restaurantHours": "M-SA 7:00AM-10:00PM SU 7:00AM-5:00PM",
           "restaurantWebsite": "http://honeyssitneat.com/"
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -75.163462,
-            39.952624
+            -75.177063,
+            39.9451878
           ]
         }
       },
@@ -319,7 +419,7 @@
           "state": "PA",
           "restaurantNotInCenterCity": true,
           "restaurantBreakfastSpecialty": true,
-          "restaurantDescription": "'jeb's open faced sandwich (veggie sausage patties, gravy, fried eggs) is memorable' 'Get the breakfast special: over medium, latke, challah.' 'Great brunch place on weekends, worth the wait.'",
+          "restaurantDescription": "'jeb's open faced sandwich (veggie sausage patties, gravy, fried eggs) is memorable' 'Get the breakfast special: over medium, latke, challah.' 'Bacon/egg/cheese/toasted-buttered challah roll from Honey's - No bells. No whistles. Just the best breakfast sandwich.' Great brunch place on weekends, worth the wait.'",
           "restaurantHours": "M-FR 7:00AM-4:00PM SA-SU 7:00AM-5:00PM",
           "restaurantWebsite": "http://honeyssitneat.com/"
         },
@@ -592,6 +692,56 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Paesano's (Italian Market)",
+          "phoneFormatted": "(215) 440-0371",
+          "phone": "2154400371",
+          "address": "1017 S 9th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19147",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'The Paesano - Brisket, egg, horseradish, greens. absolutely ridiculous' Philly Style sandwiches with Italian inspiration (Website)",
+          "restaurantHours": "SU-TH 11:00AM-3:00PM FR-SA 11:00AM-5:00PM",
+          "restaurantWebsite": "http://www.paesanosphillystyle.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1581281111111,
+            39.937213
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Paesano's (Northern Liberties)",
+          "phoneFormatted": "(267) 886-9556",
+          "phone": "2678869556",
+          "address": "152 W Girard Avenue",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19123",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'The Paesano - Brisket, egg, horseradish, greens. absolutely ridiculous' Philly Style sandwiches with Italian inspiration (Website)",
+          "restaurantHours": "11:00AM-7:00PM",
+          "restaurantWebsite": "http://www.paesanosphillystyle.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.138186,
+            39.969168
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Plenty Cafe",
           "phoneFormatted": "(215) 560-8684",
           "phone": "2155608684",
@@ -624,7 +774,7 @@
           "country": "United States",
           "postalCode": "19107",
           "state": "PA",
-          "restaurantDescription": "Always busy, literal world of food, great place to take out-of-town visitors. Some favorites include: Dutch Eating place (Amish diner experience, good for solo diners). Beck's Cajun Café (jambalaya and other creole favorites). DiNic's (roast beef sandwiches). Valley Shepherd Creamery (awesome Meltkraft grilled cheese sandwiches).",
+          "restaurantDescription": "Always busy, literal world of food, great place to take out-of-town visitors. Some favorites include: Dutch Eating place (Amish diner experience, good for solo diners). Beck's Cajun Café (jambalaya and other creole favorites). DiNic's (roast beef sandwiches). Herschel's East Side Deli (the pastrami, egg & cheese on rye) Valley Shepherd Creamery (awesome Meltkraft grilled cheese sandwiches).",
           "restaurantHours": "M-SA 8:00AM-6:00PM, SU 9:00AM-5:00PM (non-Dutch). Pennsylvania Dutch stalls have different hours TU-W 8:00AM-3:00PM TH-SA 8:00AM-5:00PM",
           "restaurantWebsite": "http://readingterminalmarket.org"
         },
@@ -633,6 +783,31 @@
           "coordinates": [
             -75.1590103434147,
             39.95333315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Red Hook Coffee & Tea",
+          "phoneFormatted": "(215) 923-0178",
+          "phone": "2159230178",
+          "address": "765 S 4th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19147",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'For the variety, taste, and price it's very difficult to beat.' Exposed-brick walls set off a menu of breakfast & lunch items plus coffee & tea at this artsy cafe. (Google)",
+          "restaurantHours": "7:00AM-6:00PM",
+          "restaurantWebsite": "http://www.antspantscafe.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1497724,
+            39.9385765
           ]
         }
       },
@@ -725,6 +900,31 @@
           "coordinates": [
             -75.172019,
             39.951952
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "South Street Bagel",
+          "phoneFormatted": "(215) 627-6277",
+          "phone": "2156276277",
+          "address": "613 S 3rd St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19147",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'It has solid bfast sandwiches!' Narrow shop serving New York-style bagels made from scratch, plus bagel sandwiches & cream cheese. (Google)",
+          "restaurantHours": "6:30AM-4:00PM",
+          "restaurantWebsite": "http://www.southstphillybagel.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1475421428571,
+            39.9412086326531
           ]
         }
       },
@@ -911,6 +1111,31 @@
           "coordinates": [
             -75.1741683157895,
             39.9483949473684
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "The Fitzwater Cafe",
+          "phoneFormatted": "(215) 629-0428",
+          "phone": "2156290428",
+          "address": "728 S 7th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19147",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'I'm a big fan of Stacey Ann DiPlacido's work' Narrow cafe & bakery with bistro-style decor serves updated American breakfast & lunch fare; BYOB. (Google)",
+          "restaurantHours": "7:00AM-3:00PM",
+          "restaurantWebsite": "https://www.facebook.com/FitzwaterCafe/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.154324,
+            39.940809
           ]
         }
       },
