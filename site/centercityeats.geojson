@@ -126,6 +126,31 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Big Blue Lunch Truck",
+          "phoneFormatted": "",
+          "phone": "",
+          "address": "3401 Market St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19104",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'Cheap and has a ton of good sandwiches'",
+          "restaurantHours": "Breakfast (assumed)",
+          "restaurantWebsite": "http://philadelphia.menupages.com/restaurants/big-blue-lunch-truck/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1915761,
+            39.9563211
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Breakfast Sandwich (cart, approx. location)",
           "phoneFormatted": "",
           "phone": "",
@@ -169,6 +194,30 @@
           "coordinates": [
             -75.1769932,
             39.9372478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Buena Onda",
+          "phoneFormatted": "(215) 302-3530",
+          "phone": "2153023530",
+          "address": "1901 Callowhill St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19130",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'Best fish tacos in Philly, the fried shrimp ones are something else' 'You get free beer while waiting for your order to arrive' Jose Garces serves tacos, quesadillas & margaritas at this taqueria inspired by the Baja Peninsula. (Google)",
+          "restaurantHours": "11:00AM-9:00PM",
+          "restaurantWebsite": "http://buenaondatacos.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1706861060873,
+            39.9603821
           ]
         }
       },
@@ -222,6 +271,102 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Chestnut Street Philly Bagels",
+          "phoneFormatted": "(215) 299-9920",
+          "phone": "2152999920",
+          "address": "1705 Chestnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'If you're looking for a breakfast sandwich that is on a bagel...' Chestnut Street Philly Bagels is a bakery committed to bringing fresh bagels to our community every day. All of our bagels are made from scratch, using unbleached and unbromated flour, without preservatives. Our bagels are made in the traditional New York bagel baking style – boiled in a kettle first, then baked on burlap covered wooden boards. We strive to bring the utmost in freshness and quality-from our family to yours. (Website)",
+          "restaurantHours": "M-SU 6:30AM-4:00PM",
+          "restaurantWebsite": "http://www.chestnutbagels.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1689600204082,
+            39.9515752040816
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Cheu Noodle Bar",
+          "phoneFormatted": "(267) 639-4136",
+          "phone": "2676394136",
+          "address": "255 S 10th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "Hip ramen bar with graffiti-covered walls serves noodles & Asian bites plus beer, wine & cocktails. (Google)",
+          "restaurantHours": "M-TH 12:00PM-3:00PM M-TH 5:00PM-10:00PM FR 12:00PM-3:00PM FR 5:00PM-11:00PM SA 12:00PM-11:00PM SU 12:00PM-10:00PM (Note: Reservations only accepted M-TH 5:00-6:00PM 4+ parties)",
+          "restaurantWebsite": "http://www.cheunoodlebar.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.157689,
+            39.94663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Chipotle Mexican Grill (Center City)",
+          "phoneFormatted": "(215) 558-5213",
+          "phone": "2155585213",
+          "address": "1512 Walnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'If you order something like a quesadilla, you will have to wait' Fast-food chain offering Mexican fare, including design-your-own burritos, tacos & bowls. (Google)",
+          "restaurantHours": "M-SU 11:00AM-10:00PM",
+          "restaurantWebsite": "https://www.chipotle.com/menu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.166659,
+            39.94956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Coffee House Too",
+          "phoneFormatted": "(267) 324-5888",
+          "phone": "2673245888",
+          "address": "2514 E York St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19125",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'One of my favorite croissant breakfast sandwiches' Chill daytime spot with classic American breakfast & lunch fare, plus espresso drinks & smoothies. (Google)",
+          "restaurantHours": "M-FR 7:00AM-5:00PM SA-SU 8:30AM-5:00PM",
+          "restaurantWebsite": "http://coffeehouseco.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1235484666667,
+            39.9767337333333
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Crazy Sushi",
           "phoneFormatted": "(215) 988-0398",
           "phone": "2159880398",
@@ -269,6 +414,52 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Dim Sum Garden",
+          "phoneFormatted": "(215) 873-0258 ",
+          "phone": "2158730258",
+          "address": "1020 Race St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "'Perfect for longer team outings, especially when cold weather, soup dumplings are hot (be careful!) and delicious.' BYOB Chinese fixture offers a range of dumplings, plus classic rice & noodle meals in a sleek space. (Google)",
+          "restaurantHours": "10:30AM-10:30PM",
+          "restaurantWebsite": "http://www.dimsumgardenphilly.com/ https://www.instagram.com/dimsumgarden/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1567823508857,
+            39.95518645
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Dos Tacos",
+          "phoneFormatted": "(215) 567-8226",
+          "phone": "2155678226",
+          "address": "120 S 15th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19102",
+          "state": "PA",
+          "restaurantDescription": "'Los Clasicos is excellent' 'Order two different types with a friend and split, they will stagger them for you' 'Open late, lots of drunk people antics' Chef Sylva Senat's hip taqueria serves unique takes on Mexican street food, like Korean-style tacos. (Google)",
+          "restaurantHours": "M-W 11:00AM-9:00PM TH-SA 11:00AM-3:00AM SU (CL)",
+          "restaurantWebsite": "https://dostacosphilly.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.16585525,
+            39.95044625
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Duane Morris",
           "phoneFormatted": "",
           "phone": "",
@@ -292,6 +483,29 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "E Mei Restaurant",
+          "phoneFormatted": "(215) 627-2500",
+          "phone": "2156272500",
+          "address": "915 Arch St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "No-frills eatery serving classic Chinese dishes alongside spicy Sichuan specialties. (Google)",
+          "restaurantHours": "M-TH 11:00AM-10:30PM FR-SA 11:00AM-11:00PM SU 12:00PM-10:00PM",
+          "restaurantWebsite": "http://www.yelp.com/biz/e-mei-restaurant-philadelphia-2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.155424,
+            39.953522
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Gianfranco Pizza Rustica",
           "phoneFormatted": "(215) 592-0048",
           "phone": "2155920048",
@@ -309,6 +523,53 @@
           "coordinates": [
             -75.1457295,
             39.9504663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Giwa",
+          "phoneFormatted": "(215) 557-9830",
+          "phone": "2155579830",
+          "address": "1608 Sansom St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Good tacos' Delivery number is different - (215)829-1500. Korean fast-food outlet offers staples like bibimbop & Korean tacos in tiny, simple quarters. (Google).",
+          "restaurantHours": "M-FR 11:00AM-8:00PM SA-SU (Sept-June) 12:00PM-8:00PM",
+          "restaurantWebsite": " http://www.allmenus.com/pa/philadelphia/261868-giwa/menu/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1676316938776,
+            39.9504594081633
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Gyu-Kaku",
+          "phoneFormatted": "(267) 603-9482",
+          "phone": "2676039482",
+          "address": "1901 Callowhill St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19130",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "Gyu-Kaku, meaning 'Horn of the Bull' in Japanese provides the authentic Japanese Yakiniku (barbeque) dining experience where customers share premium cooked meats over a flaming charcoal grill while sipping on Japanese Sake, Shochu and frosty cold beers.  Gyu-Kaku offers a wide range of meats including the bestseller Harami Skirt Steak in Miso marinade, Certified Angus Kalbi Short Rib in Tare Soy marinade. Other popular items include pork, lamb, duck & chicken, Shrimp Garlic & a variety of vegetables. (Website)",
+          "restaurantHours": "11:30AM-5:00PM (Lunch) SU-TH 5:00PM-10:30PM FR-SA 5:00PM-11:30PM",
+          "restaurantWebsite": "http://www.gyu-kaku.com/#!philadelphia/c1v0t"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1706861060873,
+            39.9603821
           ]
         }
       },
@@ -483,6 +744,29 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Lee How Fook",
+          "phoneFormatted": "(215) 925-7266",
+          "phone": "2159257266",
+          "address": "219 N 11th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "This BYOB Chinese eatery offers all the traditional dishes in a simple setting with Asian artifacts. (Google)",
+          "restaurantHours": "M (CL) TU-SU 11:30AM-10:00PM",
+          "restaurantWebsite": "http://www.leehowfookphilly.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1572,
+            39.956307
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Mama's Vegetarian",
           "phoneFormatted": "(215) 751-0477",
           "phone": "2157510477",
@@ -575,6 +859,30 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Monde Market",
+          "phoneFormatted": "(215) 496-0564",
+          "phone": "2154960564",
+          "address": "100 S 21st St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'I am partial to the bacon, egg, cheese, and avocado sandwich on rye bread.' Beer & sandwich shop offering a variety of local & national craft beers plus mixed six-packs. (Google)",
+          "restaurantHours": "M-SU 7:00AM-12:00AM",
+          "restaurantWebsite": "http://mondemarket.blogspot.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1756187,
+            39.9519703
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Mrs. K's Coffee Shop & Cafe",
           "phoneFormatted": "(215) 627-7991",
           "phone": "2156277991",
@@ -638,6 +946,30 @@
           "coordinates": [
             -75.1459458,
             39.9495502
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Nine Ting",
+          "phoneFormatted": "(215) 238-9996",
+          "phone": "2152389996",
+          "address": "926 Race St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantNotInCenterCity": false,
+          "restaurantDescription": "This sleek, modern BYO spot specializes in all-you-can-eat hot pot dishes & Korean BBQ. (Google)",
+          "restaurantHours": "12:00PM-1:00AM",
+          "restaurantWebsite": "http://nineting.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1548584444444,
+            39.9551633333333
           ]
         }
       },
@@ -742,6 +1074,52 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Penang",
+          "phoneFormatted": "215) 413-2531",
+          "phone": "2154132531",
+          "address": "117 N 10th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "'Get the roti canai' Spacious Malaysian eatery with an open kitchen & speedy service amid industrial-chic decor. (Google)",
+          "restaurantHours": "11:30AM-12:00AM",
+          "restaurantWebsite": "http://philadelphia.menupages.com/restaurants/penang/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.156032,
+            39.954235
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Philadelphia Chutney Company",
+          "phoneFormatted": "(215) 564-6446",
+          "phone": "2155646446",
+          "address": "1628 Sansom St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantDescription": "'Super biggie-size dosas'",
+          "restaurantHours": "M-TH 10:00AM-9:00PM FR-SA 10:00AM-2:00AM",
+          "restaurantWebsite": "http://philadelphia.menupages.com/restaurants/philadelphia-chutney-company/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1678884285714,
+            39.9504904285714
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Plenty Cafe",
           "phoneFormatted": "(215) 560-8684",
           "phone": "2155608684",
@@ -760,6 +1138,29 @@
           "coordinates": [
             -75.1682558,
             39.9473314
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Rangoon",
+          "phoneFormatted": "(215) 829-8939",
+          "phone": "2158298939",
+          "address": "112 N 9th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "Low-key Burmese eatery known for its huge menu of unusual dishes, including thousand-layer bread. (Google)",
+          "restaurantHours": "M-TH 11:30AM-9:00PM FR-SA 11:30AM-10:00PM SU 11:30AM-9:00PM",
+          "restaurantWebsite": "http://rangoonrestaurant.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1547308571429,
+            39.9537782857143
           ]
         }
       },
@@ -814,6 +1215,29 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "Rice & Mix",
+          "phoneFormatted": "(215) 383-2519",
+          "phone": "2153832519",
+          "address": "1207 Walnut St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "'Quick fast casual Korean lunch'",
+          "restaurantHours": "M-SA 11:00AM-9:00PM",
+          "restaurantWebsite": "http://philadelphia.menupages.com/restaurants/rice-mix/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1608815714286,
+            39.9490062857143
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Shake Shack",
           "phoneFormatted": "(215) 809-1742",
           "phone": "2158091742",
@@ -831,6 +1255,31 @@
           "coordinates": [
             -75.173792,
             39.9512405
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Sidecar Bar & Grille",
+          "phoneFormatted": "(215) 732-3429",
+          "phone": "2157323429",
+          "address": "2201 Christian St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19146",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'Great biscuit Sammy for brunch' 'Awesome brunch spot' Neighborhood gastropub with upstairs bar offering eclectic eats & a rotating lineup of craft beers.",
+          "restaurantHours": "M-TH 4:00PM-1:00AM FR-SA 9:00AM-1:00AM",
+          "restaurantWebsite": "http://www.thesidecarbar.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.179489,
+            39.941761
           ]
         }
       },
@@ -940,7 +1389,7 @@
           "postalCode": "19103",
           "state": "PA",
           "restaurantBreakfastSpecialty": true,
-          "restaurantDescription": "'I like my breakfast simple and my bagels delicious.'",
+          "restaurantDescription": "'They're always ridiculously busy though so going during off times is best.' 'I like my breakfast simple and my bagels delicious.'",
           "restaurantHours": "7:00AM-4:00PM (or until sold out)",
           "restaurantWebsite": "http://www.spreadbagelry.com/"
         },
@@ -1018,6 +1467,30 @@
           "coordinates": [
             -75.1567363333333,
             39.9483221666667
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Taco Riendo",
+          "phoneFormatted": "(215) 235-2294",
+          "phone": "2152352294",
+          "address": "1301 N 5th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19123",
+          "state": "PA",
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'Closest thing to real mexican Tacos in the area.' Order at the counter in this small cocina with a menu of Mexican street foods & breakfast items. (Google)",
+          "restaurantHours": "M-TH 9:00AM-9:00PM FR-SA 9:00AM-10:00PM SU 9:00AM-9:00PM",
+          "restaurantWebsite": "http://www.yelp.com/biz/taco-riendo-philadelphia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.144593,
+            39.971543
           ]
         }
       },
@@ -1167,6 +1640,149 @@
       {
         "type": "Feature",
         "properties": {
+          "restaurantName": "The Grubhouse",
+          "phoneFormatted": "(215) 334-3525",
+          "phone": "2153343525",
+          "address": "2340 S Hemberger St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19145",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'The egg and cheese sandwich with peppers and onions' Since opening in March 2013, The Grubhouse has built a reputation as one of the best new breakfast/brunch spots in Philadelphia.  (Website) Laid-back daytime joint specializing in hearty brunch items, from bacon pancakes to burgers. (Google)",
+          "restaurantHours": "M-TU (CL) W-SU 9:00AM-2:00PM",
+          "restaurantWebsite": "http://cousinsgrubhouse.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1845593469388,
+            39.9233038979592
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Veggie Lovers",
+          "phoneFormatted": "(215) 226-6688",
+          "phone": "2152266688",
+          "address": "225 N 11th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "Casual eatery featuring General Tso's tofu & other vegetarian takes on classic Chinese dishes. (Google)",
+          "restaurantHours": "M-TH 11:00AM-10:00PM FR 11:00AM-11:00PM SA 3:00PM-11:00PM SU 4:00PM-10:00PM",
+          "restaurantWebsite": "http://www.veggielovers.net/ https://www.zomato.com/philadelphia/veggie-lovers-chinatown/menu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1571770909091,
+            39.9564141818182
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Vietnam Palace",
+          "phoneFormatted": "(215) 592-9596",
+          "phone": "2155929596",
+          "address": "222 N 11th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19123",
+          "state": "PA",
+          "restaurantDescription": "2-story Vietnamese outpost with an upscale feel & fare, including vermicelli & charbroiled meats. (Google)",
+          "restaurantHours": "M-TH 11:00AM-9:30PM FR-SA 11:00AM-10:00PM SU 11:00AM-9:30PM",
+          "restaurantWebsite": "http://vietnampalace.net/bar_menu"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1572873878987,
+            39.9569091613507
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Village Whiskey",
+          "phoneFormatted": "(215) 665-1088",
+          "phone": "2156651088",
+          "address": "118 S 20th St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantNotInCenterCity": false,
+          "restaurantDescription": "Gourmet pub grub & raw-bar items served alongside specialty cocktails & dozens of whiskey options. (Google)",
+          "restaurantHours": "M-FR 11:30AM-11:00PM SA-SU 2:30PM-11:00PM TU-TH 11:00PM-12:00AM FR-SA 11:00PM-1:00AM SA-SU (Brunch) 10:30AM-2:30PM",
+          "restaurantWebsite": "http://philadelphia.villagewhiskey.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1737834,
+            39.9513934
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Wawa #8069",
+          "phoneFormatted": "(215) 732-1379",
+          "phone": "2157321379",
+          "address": "201 S Broad St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'Wawa sausage egg and cheese sizzlis are heavenly. Only $2 dollars.'",
+          "restaurantHours": "24 Hours",
+          "restaurantWebsite": "https://www.wawa.com/menu/6de77ed0-982c-4c41-bb46-ee10de4783c4.pdf"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.164113,
+            39.949199
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Wawa #86",
+          "phoneFormatted": "(215) 977-9558",
+          "phone": "2159779558",
+          "address": "1707 Arch St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19103",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantDescription": "'Wawa sausage egg and cheese sizzlis are heavenly. Only $2 dollars.'",
+          "restaurantHours": "24 Hours",
+          "restaurantWebsite": "https://www.wawa.com/menu/3a37075e-a9b2-42e7-9f7f-92645b5e81ca.pdf"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1682073877551,
+            39.9551186122449
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
           "restaurantName": "Wedge + Fig",
           "phoneFormatted": "(267) 603-3090",
           "phone": "2676033090",
@@ -1184,6 +1800,54 @@
           "coordinates": [
             -75.1450135185185,
             39.9537023703704
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Woodrow's sandwich shop",
+          "phoneFormatted": "(215) 470-3559",
+          "phone": "2154703559",
+          "address": "630 South St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19147",
+          "state": "PA",
+          "restaurantBreakfastSpecialty": true,
+          "restaurantNotInCenterCity": true,
+          "restaurantDescription": "'Pretzel egg and cheese is good' Mind-blowing sandwiches (Website)",
+          "restaurantHours": "M-FR 11:00AM-7:00PM SA-SU 11:00AM-5:00PM",
+          "restaurantWebsite": "http://woodrowsandwich.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1527499523809,
+            39.9419819523809
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "restaurantName": "Xi'an Sizzling Woks",
+          "phoneFormatted": "(215) 925-1688",
+          "phone": "2159251688",
+          "address": "902 Arch St",
+          "city": "Philadelphia",
+          "country": "United States",
+          "postalCode": "19107",
+          "state": "PA",
+          "restaurantDescription": "Casual storefront serving signature noodle dishes & other fare including Chinese hamburgers. (Google)",
+          "restaurantHours": "M-TH 11:00AM-10:00PM FR-SU 11:00AM-10:30PM",
+          "restaurantWebsite": "http://www.xiansizzlingwoksphilly.com/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.1549444545455,
+            39.9532936363636
           ]
         }
       }
