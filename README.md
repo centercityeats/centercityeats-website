@@ -1,4 +1,4 @@
-## centercityeats
+## centercityeats.
 
 This is the source and data for [Center City Eats](http://centercityeats.com). At the moment, there is no automated deployment mechanism, all manual.
 
